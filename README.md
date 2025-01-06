@@ -1,4 +1,4 @@
-# Salary Prediction App
+# 2025 Developers Salary Prediction App
 This repository hosts a simple yet effective Salary Prediction App built using Python and Streamlit. The app predicts a developer's estimated salary based on their country, education level, and years of experience. It's an interactive tool designed to provide quick insights into expected salary ranges in 2025 for developers in various regions.
 
 # Features
@@ -7,9 +7,11 @@ Real-time Predictions: The app leverages a pre-trained machine learning model to
 Country and Education Encoding: Encoded input data ensures compatibility with the model.
 
 # How It Works
-Inputs: The user selects their country and education level, then adjusts the slider for years of experience.
+### Inputs: 
+The user selects their country and education level, then adjusts the slider for years of experience.
 Prediction: On submitting the inputs, the app processes the data using a machine learning model to predict the salary.
-Output: The estimated salary is displayed on the app interface.
+### Output: 
+The estimated salary is displayed on the app interface.
 Model and Code Source
 The machine learning model used in this app was pre-trained and serialized using the pickle library. It includes:
 
