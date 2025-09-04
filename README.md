@@ -1,7 +1,7 @@
 # 2025 Developers Salary Prediction App
+![App Image](https://github.com/RaphRivers/Developers-Salary-Prediction-ML-Model-App/blob/main/pred-1.png)
 
-This repository hosts a simple yet effective Salary Prediction App built using Python and Streamlit. The app predicts a developer's estimated salary based on their country, education level, and years of experience. It's an interactive tool designed to provide quick insights into expected salary ranges in 2025 for developers in various regions.
-https://github.com/RaphRivers/Developers-Salary-Prediction-ML-Model-App/blob/main/pred-1.png
+Discover your earning potential with this interactive Salary Prediction App, powered by Python and Streamlit. Simply select your country, education level, and years of experience, and get an instant salary estimate. Perfect for developers curious about 2025 salary trends worldwide, this tool delivers insights in a fast and engaging way.
 
 # Features
 Interactive UI: Users can input their details such as country, education level, and years of experience.
