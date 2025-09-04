@@ -4,9 +4,12 @@
 Discover your earning potential with this interactive Salary Prediction App, powered by Python and Streamlit. Simply select your country, education level, and years of experience, and get an instant salary estimate. Perfect for developers curious about 2025 salary trends worldwide, this tool delivers insights in a fast and engaging way.
 
 # Features
-Interactive UI: Users can input their details such as country, education level, and years of experience.
-Real-time Predictions: The app leverages a pre-trained machine learning model to estimate salaries instantly.
-Country and Education Encoding: Encoded input data ensures compatibility with the model.
+- Interactive UI: Users can input their details such as country, education level, and years of experience.
+- Real-time Predictions: The app leverages a pre-trained machine learning model to estimate salaries instantly.
+- Country and Education Encoding: Encoded input data ensures compatibility with the model.
+- Works with any data source E.g Stack overflow survey data
+
+![Explore Data Source Page](https://github.com/RaphRivers/Developers-Salary-Prediction-ML-Model-App/blob/main/explore.png)
 
 # How It Works
 ### Inputs: 
@@ -30,7 +33,8 @@ Getting Started
 To run the app locally:
 
 # Clone this repository.
-Install the required libraries using pip install -r requirements.txt.
-Place the serialized model file (salary_prediction_model.pkl) in the root directory.
-Run the app with streamlit run app.py.
-Note: The app is intended for demonstration purposes and may not reflect actual market conditions or salary trends.
+- Install the required libraries using pip install -r requirements.txt.
+- Place the serialized model file (salary_prediction_model.pkl) in the root directory.
+- Run the app with streamlit run app.py.
+  
+Disclaimer: Please note this app is intended for education and demonstration purposes and may not reflect actual market conditions or salary trends.
